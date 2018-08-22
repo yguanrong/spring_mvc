@@ -1,0 +1,23 @@
+.body{
+    width: 99%;
+    background: url("../../res/img/bj.jpg");
+    z-index: -1;
+}
+.form{
+    width: 290px;
+    height: 200px;
+    margin-left: 40%;
+    margin-top: 150px;
+    background: url("../../res/img/bd.jpg");
+    /*opacity: 0.9;*/
+}
+.form input{
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 80%;
+}
+.prent{
+    position: relative;
+}
+
+
